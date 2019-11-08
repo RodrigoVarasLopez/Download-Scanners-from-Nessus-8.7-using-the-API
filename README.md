@@ -1,5 +1,5 @@
-# Nessus_Scans_Parser
-Nessus_Scans_Parser
+# Nessus_Download_Scanner
+Nessus_Download_Scanner
 
 Nessus Profesional Version: 8.7.1 (#212) LINUX
 
