@@ -9,8 +9,10 @@ In order to execute the script correctly is nedded to modify the next variables:
 
 Example:
 
-nessusBaseURL= "https://192.168.191.132:8834"
+nessusBaseURL= "https://192.168.191.132:8834" 
+
 nessusUsername= "Rodrigo.Varas"
+
 nessusPassword= "Westcon,.-3218"
 
 
