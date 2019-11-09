@@ -1,4 +1,4 @@
-# Nessus_Download_Scanner
+# Nessus Download Critical Scanner
 Nessus_Download_Scanner
 
 Nessus Profesional Version: 8.7.1 (#212) LINUX
