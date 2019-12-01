@@ -1,4 +1,6 @@
 # Nessus: Download Critical Scanner
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRodrigoVarasLopez%2FDownload-Scanners-from-Nessus-8.7-using-the-API.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRodrigoVarasLopez%2FDownload-Scanners-from-Nessus-8.7-using-the-API?ref=badge_shield)
+
 Nessus_Download_Scanner
 
 Nessus Profesional Version: 8.7.1 (#212) LINUX
@@ -62,3 +64,7 @@ Starting  prueba_2
 Plugin ID,CVE,CVSS,Risk,Host,Protocol,Port
 
 Completed prueba_2
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRodrigoVarasLopez%2FDownload-Scanners-from-Nessus-8.7-using-the-API.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRodrigoVarasLopez%2FDownload-Scanners-from-Nessus-8.7-using-the-API?ref=badge_large)
