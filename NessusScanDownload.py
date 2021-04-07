@@ -4,7 +4,7 @@ import requests, json, time, urllib3
 # Variables
 nessusBaseURL="https://192.168.191.132:8834"
 nessusUsername="Rodrigo.Varas"
-nessusPassword="Westcon,.-3218"
+nessusPassword="Example"
 upToThisManyDaysAgo=5
 folderID = 1
 sleepPeriod = 5
