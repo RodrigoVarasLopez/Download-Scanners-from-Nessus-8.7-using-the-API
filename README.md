@@ -13,7 +13,7 @@ nessusBaseURL= "https://192.168.191.132:8834"
 
 nessusUsername= "Rodrigo.Varas"
 
-nessusPassword= "Westcon,.-3218"
+nessusPassword= "Example"
 
 
 Output:
